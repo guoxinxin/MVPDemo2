@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">不爱</string>
+
+
+    <string name="username">用户名:</string>
+    <string name="password">密 码 :</string>
+
+    <string name="login">登陆</string>
+    <string name="clear">清空</string>
+
+    <string name="success">登陆成功</string>
+    <string name="error">智障,登陆失败哦</string>
+    <string name="loging">登录中</string>
+
+</resources>
